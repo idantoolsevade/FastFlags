@@ -1,4 +1,6 @@
 [C++] DFFlagAbuseReportInExperienceStateCaptureMode
+[C++] DFFlagVideoCaptureFixF12Preemption
+[C++] DFFlagVideoCaptureF12TestIfWritable
 [C++] DFFlagAcceleratorUpdateOnPropsAndValueTimeChange
 [C++] FFlagEnableInGameMenuSongbirdABTest
 [C++] FFlagAddUILessMode
