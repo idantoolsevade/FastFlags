@@ -1,5 +1,7 @@
 [C++] DFFlagAbuseReportInExperienceStateCaptureMode
 [C++] DFFlagAcceleratorUpdateOnPropsAndValueTimeChange
+[C++] FFlagEnableInGameMenuSongbirdABTest
+[C++] FFlagAddUILessMode
 [C++] DFFlagAccessCookiesWithUrlEnabled
 [C++] DFFlagActionsListenForUISelectionInteractions
 [C++] DFFlagActionStationDebounceInitialization
