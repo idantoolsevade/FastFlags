@@ -1,4 +1,9 @@
 [C++] DFFlagAbuseReportInExperienceStateCaptureMode
+[C++] FFlagFixGraphicsQuality
+[C++] FFlagReplaceChromeNotificationBadge2
+[C++] FFlagInExperienceMenuReorderFirstVariant2
+[C++] FStringWhitelistVerifiedUserId
+[C++] FFlagEnableUpdatedCaptureControls_v8
 [C++] DFFlagVideoCaptureFixF12Preemption
 [C++] DFFlagVideoCaptureF12TestIfWritable
 [C++] DFFlagAcceleratorUpdateOnPropsAndValueTimeChange
